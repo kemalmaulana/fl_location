@@ -51,7 +51,7 @@ dependencies {
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.22'
     implementation 'com.google.android.gms:play-services-location:21.1.0'
     implementation 'com.google.code.gson:gson:2.10.1'
-    implementation 'io.flutter:flutter_embedding_debug:1.0.0-04817c99c9fd4956f27505204f7e344335810aed'
+//    implementation 'io.flutter:flutter_embedding_debug:1.0.0-04817c99c9fd4956f27505204f7e344335810aed'
 //    implementation files('../android/flutter.jar')
 //    implementation files('/Users/kemalmaulana/flutter/bin/cache/artifacts/engine/android-arm64-release/flutter.jar')
 //    compileOnly rootProject.findProject(":fl_location")
